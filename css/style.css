@@ -1,0 +1,163 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.second{
+    background-color: white;
+    height: 35vh;
+    opacity: 1;
+    padding: 8rem 0;
+    text-align: center;
+}
+.list ul{
+    margin: 2rem 0 8rem 0;
+    padding: 0 25px;
+}
+.list ul li{
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 5px;
+    margin-left: 4rem;
+}
+.list{
+    width: 55%;
+    margin: auto;
+    margin-top: 1rem;
+    text-align: left;
+}
+.second  .h2edit2{
+    font-size: 35px;
+    font-weight: bolder ;
+    width: 70%;
+    
+   
+    color: black;
+    margin-bottom: 10px;
+}
+.second  .h3edit2{
+    font-size: 1.45rem;
+    font-weight: 100;
+    color: #212529;
+    margin-bottom: 30px;
+    text-align: left;
+    margin-left: 25.5rem;
+}
+#header{
+    background-color: rgba(20, 16, 26, 0.918);
+    padding: 0.1rem 0;
+    color: white;
+
+    
+    
+}
+#header h2{
+    margin-left: 7rem;
+    margin-top: 3rem;
+}
+
+#first{
+    background-color: #277DFD;
+    text-align: center;
+    height: 20vh;
+    background-position: center;
+    opacity: 1;
+    padding: 8rem 0;
+    
+    
+    
+}
+#first .h1edit1{
+    font-size: 40px;
+    font-weight: bolder important;
+    font-family: Arial, Helvetica, sans-serif;
+   
+    color: white;
+    margin-bottom: 10px;
+    
+}
+#first .h3edit1{
+    font-size: 1.45rem;
+    font-weight: 600;
+    color: white;
+    margin-bottom: 30px;
+   
+}
+#first .buttonwork{
+  
+    border-color: #f8f9fa;
+    font-size: 1.2rem;
+    padding: 0.8rem 1.3rem;
+    text-decoration: none;
+   
+    border-radius: 5px;
+}
+.third{
+    background-color: rgb(248, 249, 250);
+    height: 35vh;
+    opacity: 1;
+    padding: 8rem 0;
+    text-align: center;
+}
+.third  .thirdh2{
+    font-size: 35px;
+    font-weight: bolder ;
+    width: 70%;
+    margin-bottom: 8px;
+}
+.third  .thirdh3{
+    font-size: 1.45rem;
+    font-weight: 100;
+    color: #212529;
+    margin-bottom: 30px;
+    text-align: left;
+    margin-left: 25.5rem;
+}
+.fourth{
+    background-color:white;
+    height: 35vh;
+    opacity: 1;
+    padding: 8rem 0;
+    text-align: center;
+}
+.fourth  .fourthh2{
+    font-size: 35px;
+    font-weight: bolder ;
+    width: 65%;
+    margin-bottom: 8px;
+}
+.fourth  .fourthh3{
+    font-size: 1.45rem;
+    font-weight: 100;
+    color: #212529;
+    margin-bottom: 30px;
+    text-align: left;
+    margin-left: 26rem;
+}
+.end{
+    background-color: rgb(33, 37, 41);
+    color: white;
+    padding: 3.5rem;
+    text-align: center;
+}
+
+#header  .a1{
+    font-size: 20px;
+   margin-left: 70rem;
+   color: white;
+   text-decoration: none;
+}
+#header  .a2{
+    font-size: 20px;
+    margin-left: 75rem;
+    color: white;
+    text-decoration: none;
+   
+    
+}
+#header  .a3{
+    font-size: 20px;
+    margin-left: 80rem;
+    color: white;
+    text-decoration: none; 
+}
+
